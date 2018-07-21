@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Custom stuff
+.vscode/
+.DS_Store
